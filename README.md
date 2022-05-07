@@ -1,5 +1,5 @@
 # push_test
-ディレクトリを作成した。
+ディレクトリを作成する
 
 ```
 $ mkdir (ディレクトリ名)
@@ -28,7 +28,12 @@ $ git remote add origin git@github.com:hideki1224/push_test.git
 gitにpushする準備
 
 ```
-$ git add (ファイル名)
+$ git add (ファイル名)  
 $ git commit -m "メッセージ"
 $ git push -u origin main
 ```
+
+ファイルの状態確認に使用
+```
+$ git status
+```# push_test
