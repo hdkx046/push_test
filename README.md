@@ -36,5 +36,4 @@ $ git push -u origin main
 ファイルの状態確認に使用
 ```
 $ git status
-```# push_test
-# push_test
+```
